@@ -44,7 +44,7 @@ export default {
     placeholder: true,
     format: 'jpg',
     quality: 85,
-    disable: true
+    disable: false
   },
   /*
    ** Global CSS
