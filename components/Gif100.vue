@@ -1,0 +1,25 @@
+<template>
+  <div class="grid-imgs">
+    <div class="img100">
+      <img :data-src="'~/assets/images/' + gif" :data-srcset="'images/' + gif" class="lazyload" />
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  props: {
+    gif: {
+      type: String,
+      required: true
+    }
+  }
+}
+</script>
+
+<style scoped>
+.img100 {
+  grid-column: 1/5;
+  padding: 0px 16px 12px 16px;
+}
+</style>
