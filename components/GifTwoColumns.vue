@@ -1,11 +1,19 @@
 <template>
   <div class="grid-imgs grid-twocolumns">
     <div class="img50left">
-      <img :data-src="'~/assets/images/' + gifl" :data-srcset="'images/' + gifl" class="lazyload"/>
+      <img
+        :data-src="require('~/images/' + gifl)"
+        :data-srcset="require('~/assets/images/' + gifl)"
+        class="lazyload"
+      />
     </div>
 
     <div class="img50right">
-      <img :data-src="'~/assets/images/' + gifr" :data-srcset="'images/' + gifr" class="lazyload"/>
+      <img
+        :data-src="require('~/images/' + gifr)"
+        :data-srcset="require('~/assets/images/' + gifr)"
+        class="lazyload"
+      />
     </div>
   </div>
 </template>

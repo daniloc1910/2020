@@ -1,7 +1,11 @@
 <template>
   <div class="grid-imgs">
     <div class="img50left">
-      <img :data-src="'~/assets/images/' + gif" :data-srcset="'images/' + gif" class="lazyload" />
+      <img
+        :data-src="require('~/images/' + gif)"
+        :data-srcset="require('~/assets/images/' + gif)"
+        class="lazyload"
+      />
     </div>
   </div>
 </template>
