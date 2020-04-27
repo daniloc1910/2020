@@ -101,14 +101,14 @@
           link="meu-timao"
         />
 
-        <ProjectListItem
-          title="Thiago Franco"
-          year="2018"
-          role="Website"
-          at="Freelance"
-          description="Thiago Franco It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
-          link="thiago-franco"
-        />
+        <!--<ProjectListItem
+        title="Thiago Franco"
+        year="2018"
+        role="Website"
+        at="Freelance"
+        description="Thiago Franco It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+        link="thiago-franco"
+      />-->
 
         <!--   <ProjectListItem
       title="Vinicius Amano"
@@ -128,14 +128,14 @@
           link="re-mind"
         />
 
-        <ProjectListItem
-          title="BRGB"
-          year="2016"
-          role="Art direction, design, development"
-          at="Personal"
-          description="BRGB is a gallery featuring the best website designs made in Brazil."
-          link="brgb"
-        />
+        <!--<ProjectListItem
+        title="BRGB"
+        year="2016"
+        role="Art direction, design, development"
+        at="Personal"
+        description="BRGB is a gallery featuring the best website designs made in Brazil."
+        link="brgb"
+      />-->
       </section>
     </transition>
   </div>
