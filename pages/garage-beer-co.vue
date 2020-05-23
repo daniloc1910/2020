@@ -5,7 +5,7 @@
       year="2019"
       role="Website, Development"
       at="Freelance"
-      description='Design, development and 3D manipulation for Garage Beer Co. website, a craft brewery and tap room located in the centre of Barcelona.<br><br>Creative direction by <a target="_blank" href="https://acreb.tv">Acreb Studio</a><br><a target="_blank" href="http://garage.danilocampos.com.br">See website</a>'
+      description="Design, development and 3D manipulation for Garage Beer Co. website, a craft brewery and tap room located in the centre of Barcelona."
     />
 
     <Video50Left video="garagebeerco/lata.mp4" />
@@ -41,7 +41,7 @@ export default {
 
   data() {
     return {
-      title: 'Danilo Campos — Garage Beer Co.'
+      title: 'Garage Beer Co.'
     }
   },
   head() {

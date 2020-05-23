@@ -5,7 +5,7 @@
       year="2019"
       role="Art direction, design"
       at="Concept"
-      description='Meu Timão It is a long established fact that a <a href="#">dad</a> reader will be distracted by the readable content of a page when looking at its layout.<br><br>Ilustrations by <a target="_blank" href="https://isabelaquintes.com">Isabela Quintes</a>'
+      description="Concept design and art direction for Meu Timão, the biggest news website about Sport Club Corinthians Paulista."
     />
 
     <Video50Left video="meutimao/home-video.mp4" />
@@ -49,7 +49,7 @@ export default {
 
   data() {
     return {
-      title: 'Danilo Campos — Vem do Bem'
+      title: 'Vem do Bem'
     }
   },
   head() {

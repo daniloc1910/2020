@@ -5,7 +5,7 @@
       year="2019"
       role="Design, development"
       at='Twoo<span class="r">®</span>'
-      description='Vem do Bem It is a long established fact that a <a href="#">dad</a> reader will be distracted by the readable content of a page when looking at its layout.<br><br>Ilustrations by <a target="_blank" href="https://isabelaquintes.com">Isabela Quintes</a>'
+      description='Vem do Bem is a brazilian cosmetic brand. All their products are handmade, vegan and 100% organic.<br><br>Illustrations by <a target="_blank" href="https://www.isabelaquintes.com">Isabela Quintes</a>'
     />
 
     <Img50Left img="vemdobem/capa@2.jpg" />
@@ -70,7 +70,7 @@ export default {
 
   data() {
     return {
-      title: 'Danilo Campos — Vem do Bem'
+      title: 'Vem do Bem'
     }
   },
   head() {

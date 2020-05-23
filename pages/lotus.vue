@@ -12,31 +12,45 @@
 
     <Video50Left video="lotus/refsbrasilia.mp4" />
 
-    <Video50Right video="lotus/grid.mp4" />
-
     <Img100 img="lotus/290.jpg" />
+
+    <Video50Right video="lotus/grid.mp4" />
 
     <Img50Left img="lotus/29.jpg" />
 
     <Img100 img="lotus/291.jpg" />
 
-    <Img100 img="lotus/papelaria.jpg" />
+    <Img50Right img="lotus/292.jpg" />
+
+    <Img100 img="lotus/293.jpg" />
 
     <Video50Right video="lotus/232.mp4" />
 
+    <Img100 img="lotus/papelaria.jpg" />
+
+    <Img50Left img="lotus/28.jpg" />
+
+    <Img50Right img="lotus/outdoor.jpg" />
+
     <Img100 img="lotus/mmanual02.jpg" />
 
-    <ImgTwoColumns 
-      imgl="lotus/mmanual01.jpg" 
-      imgr="lotus/mmanual03.jpg"     
-    />
+    <ImgTwoColumns imgl="lotus/mmanual01.jpg" imgr="lotus/mmanual03.jpg" />
+
+    <Img100 img="lotus/muro.jpg" />
 
     <Img50Left img="lotus/capacete.jpg" />
 
     <Img50Right img="lotus/ccamiseta.jpg" />
 
+    <Img100 img="lotus/12.jpg" />
+
+    <Img50Left img="lotus/cartao.jpg" />
+
     <Img100 img="lotus/lapis.jpg" />
 
+    <Video50Right video="lotus/211.mp4" />
+
+    <Video100 video="lotus/website.mp4" />
   </section>
 </template>
 
@@ -71,7 +85,7 @@ export default {
 
   data() {
     return {
-      title: 'Danilo Campos — Lotus'
+      title: 'Lotus'
     }
   },
   head() {

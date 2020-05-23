@@ -5,7 +5,7 @@
       year="2017"
       role="Concept, art direction, design, development"
       at="Personal"
-      description='Re—mind Few days before the final voting for the presidential election in Brazil, we decided to react and create a last-minute movement in defense of democracy and diversity, in opposition to the authoritarian and discriminatory speech by Jair Bolsonaro (currently, the elected president for 2019).<br><br>Manifesto by <a target="_blank" href="https://www.rafaelbessa.com">Rafael Bessa</a><br><a target="_blank" href="http://democracia.brgb.com.br">See website</a>'
+      description='After the death of Del.icio.us, I decided to create Re—mind as an archive of all my inspirations and references links.<br><br><a target="_blank" href="https://remind.danilocampos.com.br">See website</a>'
     />
 
     <Video50Right video="remind/video.mp4" />
@@ -39,7 +39,7 @@ export default {
 
   data() {
     return {
-      title: 'Danilo Campos — Re—mind'
+      title: 'Re—mind'
     }
   },
   head() {

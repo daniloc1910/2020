@@ -5,7 +5,7 @@
       year="2018"
       role="Art direction, design"
       at="Concept"
-      description='The Burger Map It is a long established fact that a <a href="#">dad</a> reader will be distracted by the readable content of a page when looking at its layout.<br><br>Ilustrations by <a target="_blank" href="https://isabelaquintes.com">Isabela Quintes</a>'
+      description="Concept design and art direction for The Burger Map, an american-inspired burger joint in Brazil."
     />
 
     <Img100 img="theburgermap/home@2.jpg" />
@@ -56,7 +56,7 @@ export default {
 
   data() {
     return {
-      title: 'Danilo Campos — The Burger Map'
+      title: 'The Burger Map'
     }
   },
   head() {

@@ -5,7 +5,7 @@
       year="2018"
       role="Art Direction, design"
       at="Freelance"
-      description='GRANDE It is a long established fact that a <a href="#">dad</a> reader will be distracted by the readable content of a page when looking at its layout.<br><br>Ilustrations by <a target="_blank" href="https://isabelaquintes.com">Isabela Quintes</a>'
+      description="GRANDE is a creative studio based in São Paulo. They mix art, design and technology to deliver unique creative solutions for their clients."
     />
 
     <Img100 img="grande/adesivos@2.jpg" />
@@ -61,7 +61,7 @@ export default {
 
   data() {
     return {
-      title: 'Danilo Campos — GRANDE'
+      title: 'GRANDE'
     }
   },
   head() {
