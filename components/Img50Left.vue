@@ -1,7 +1,12 @@
 <template>
   <div class="grid-imgs">
     <div class="img50left">
-      <img :src="require('~/assets/images/nuxt.jpg').placeholder" :data-src="require('~/assets/images/' + img).srcSet" :data-srcset="require('~/assets/images/' + img).srcSet" class="lazyload" />
+      <img
+        :src="require('~/assets/images/nuxt.jpg').placeholder"
+        :data-src="require('~/assets/images/' + img).srcSet"
+        :data-srcset="require('~/assets/images/' + img).srcSet"
+        class="lazyload"
+      />
     </div>
   </div>
 </template>

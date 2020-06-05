@@ -9,6 +9,7 @@
       :src="require('~/assets/images/' + video)"
       type="video/mp4"
     ></video>
+    <p class="description"><span v-html="description"></span></p>
   </div>
 </template>
 
@@ -18,12 +19,22 @@ export default {
     video: {
       type: String,
       required: true
+    },
+    // eslint-disable-next-line vue/require-default-prop
+    description: {
+      type: String,
+      required: false
     }
   }
 }
 </script>
 
 <style scoped>
+.description {
+  align-self: end;
+  margin: 0 0 -4px 0;
+}
+
 .video50left {
   grid-column: 1/3;
 }

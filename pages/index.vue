@@ -11,6 +11,15 @@
       />
 
       <ProjectListItem
+        title="Liv Up"
+        year="2020"
+        role="App, Art Direction"
+        at='Twoo<span class="r">®</span>'
+        description="Website design and development for Museu Nacional de República, located in Brasília and designed by the architect Oscar Niemeyer."
+        link="liv-up"
+      />
+
+      <ProjectListItem
         title="Escinter"
         year="2020"
         role="Website, Development"
