@@ -24,7 +24,7 @@
     "@nuxtjs/pwa": "^3.0.0-0",
     "lazysizes": "^5.2.0",
     "moment-timezone": "^0.5.26",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.12.2",
     "nuxt-responsive-loader": "^1.0.4",
     "sharp": "^0.25.3",
     "vue-lazyload": "^1.3.3"

@@ -3,9 +3,9 @@
     <HeaderInterna
       title="Liv Up"
       year="2020"
-      role="App, Art Direction"
-      at='Twoo<span class="r">®</span>'
-      description='Website design and development for Museu Nacional de República, located in Brasília and designed by the architect Oscar Niemeyer.<br><br>Project: manufatura.org<br>Creative Direction and Art Direction: Marcos Mendes Manente<br>Brand Strategy: Elisa Mendes<br>Research: Antônio Bonifácio and Paulo Henrique Paranhos<br>Copywriter: Bruna Amora<br>Graphic Design: Leo Porto and Felipe Rocha<br>Design Assistant: Vinicius Caetano<br>Motion: Lais Ikoma and Ronaldo Arthur Vidal<br>Web Design and Development: Carlos Kun and Danilo Campos<br>Content and Social Media: Front Filmes<br><br><a target="_blank" href="http://garage.danilocampos.com.br">See website</a>'
+      role="App"
+      at="Freelance"
+      description="New Liv Up’s app for their new branding and business. I have collaborated with their talented internal team to shape a concept from navigation to visual direction."
     />
 
     <Video100 video="livup/framework.mp4" />
