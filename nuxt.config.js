@@ -13,8 +13,16 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: process.env.npm_package_description || ''
-      }
+        content: 'Designer'
+      },
+      { property: 'og:url', content: 'https://danilocampos.com.br' },
+      {
+        property: 'og:image',
+        content: 'https://danilocampos.com.br/share.jpg'
+      },
+      { property: 'og:image:type', content: 'image/jpeg' },
+      { property: 'og:image:width', content: '1200' },
+      { property: 'og:image:height', content: '630' }
     ],
     script: [
       {
@@ -28,15 +36,7 @@ export default {
   /*
    ** Customize the progress-bar color
    */
-  loading: { color: '#fff' },
-  pageTransition: {
-    name: 'paper',
-    mode: ''
-  },
-  layoutTransition: {
-    name: 'layout',
-    mode: ''
-  },
+  loading: false,
 
   responsiveLoader: {
     name: 'img/[name]-[hash:7]-[width].[ext]',

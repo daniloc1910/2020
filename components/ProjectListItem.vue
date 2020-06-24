@@ -1,5 +1,5 @@
 <template>
-  <transition name="paper" appear>
+  <div>
     <nuxt-link :to="'/' + link" exact-active-class="active-project-item">
       <div class="projects">
         <div class="grid">
@@ -17,7 +17,7 @@
         </div>
       </div>
     </nuxt-link>
-  </transition>
+  </div>
 </template>
 
 <script>
