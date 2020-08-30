@@ -10,8 +10,11 @@
           interactions and smooth development.
         </p>
         <p>
-          He is also one of Twoo<span class="r">®</span>, an independent design
-          studio he runs with Carlos Kun. Twoo<span class="r">®</span> is
+          He is also one of
+          <a href="https://wearetwoo.com" target="_blank">Twoo</a
+          ><span class="r">®</span>, an independent design studio he runs with
+          Carlos Kun. <a href="https://wearetwoo.com" target="_blank">Twoo</a
+          ><span class="r">®</span>
           focused on branding and digital, they work on a variety of projects
           ranging from brand identity systems, to product design and
           development.
@@ -64,6 +67,18 @@
               target="_blank"
               >Creative Doc</a
             >
+          </li>
+          <li>
+            Extra #4 — Código e design (<a
+              href="https://youtu.be/6qda_1UaITY"
+              target="_blank"
+              >Youtube</a
+            >,
+            <a
+              href="https://open.spotify.com/episode/7sRJ4I1LvytSpFbjQSw6gD?si=id5RzbnbRIumyJGWc5Bbzg"
+              target="_blank"
+              >Spotify</a
+            >)
           </li>
           <li><br /></li>
           <li>—Publications</li>
