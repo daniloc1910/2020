@@ -127,6 +127,7 @@ export default {
   position: relative;
   display: flex;
   min-height: 100vh;
+  z-index: 20;
 }
 
 .projects-list {

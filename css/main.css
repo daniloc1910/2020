@@ -67,7 +67,7 @@ video {
 }
 
 .experience li a {
-    display: contents;
+    display: inline;
 }
 
 .paper-enter-active, .paper-leave-active

@@ -128,6 +128,7 @@
   padding: 10px 16px 12px 16px;
   position: sticky;
   top: 0px;
+  z-index: 1;
 }
 
 .title {
