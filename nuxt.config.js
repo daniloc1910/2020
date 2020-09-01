@@ -48,7 +48,7 @@ export default {
     format: 'jpg',
     quality: 85,
     adapter: require('responsive-loader/sharp'),
-    disable: true
+    disable: false
   },
   /*
    ** Global CSS
