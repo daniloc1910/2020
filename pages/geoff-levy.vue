@@ -5,20 +5,30 @@
       year="2020"
       role="Website"
       at='Twoo<span class="r">®</span>'
-      description='Website design and development for Museu Nacional de República, located in Brasília and designed by the architect Oscar Niemeyer.<br><br>Project: manufatura.org<br>Creative Direction and Art Direction: Marcos Mendes Manente<br>Brand Strategy: Elisa Mendes<br>Research: Antônio Bonifácio and Paulo Henrique Paranhos<br>Copywriter: Bruna Amora<br>Graphic Design: Leo Porto and Felipe Rocha<br>Design Assistant: Vinicius Caetano<br>Motion: Lais Ikoma and Ronaldo Arthur Vidal<br>Web Design and Development: Carlos Kun and Danilo Campos<br>Content and Social Media: Front Filmes<br><br><a target="_blank" href="http://garage.danilocampos.com.br">See website</a>'
+      description='Website design and development for Geoff Levy. Based in Brooklyn, Geoff has made films in Spanish, Portuguese, and French. His work aims to bridge art with commerce while elevating platforms of causes and cultures.<br><br>Development: <a target="_blank" href="https://www.juliocesar.work">Julio Cesar</a> and <a target="_blank" href="https://jorgetoloza.co">Jorge Toloza</a><br><br><a target="_blank" href="https://geofflevy.com">See website</a>'
     />
+
+    <Video100 video="geofflevy/video_intro_2.mp4" />
 
     <Img100 img="geofflevy/home.jpg" />
 
-    <Img100 img="geofflevy/photo.jpg" />
+    <Img50Left img="geofflevy/homem.jpg" />
 
-    <Img50Right img="geofflevy/homem.jpg" />
+    <Video50Right video="geofflevy/videohome.mp4" />
 
-    <Video100 video="geofflevy/grid-view.mp4" />
+    <Img50Left img="geofflevy/Image_3840x2560_3.jpg" />
 
-    <Img50Left img="geofflevy/gridm.jpg" />
+    <Img50Right img="geofflevy/Image_3840x2560_2.jpg" />
 
-    <Img100 img="geofflevy/project.jpg" />
+    <Img100 img="geofflevy/interna-full.jpg" />
+
+    <Img50Left img="geofflevy/Image_3840x2560_8.jpg" />
+
+    <Img50Right img="geofflevy/mobile-projeto.jpg" />
+
+    <Img100 img="geofflevy/info.jpg" />
+
+    <Video50Left video="geofflevy/videoprojeto.mp4" />
   </section>
 </template>
 
@@ -35,6 +45,8 @@ import Img100 from '~/components/Img100.vue'
 import Img50Right from '~/components/Img50Right.vue'
 import Img50Left from '~/components/Img50Left.vue'
 import Video100 from '~/components/Video100.vue'
+import Video50Right from '~/components/Video50Right.vue'
+import Video50Left from '~/components/Video50Left.vue'
 
 export default {
   layout: 'interna',
@@ -43,7 +55,9 @@ export default {
     Img100,
     Img50Right,
     Img50Left,
-    Video100
+    Video100,
+    Video50Right,
+    Video50Left
   },
 
   data() {

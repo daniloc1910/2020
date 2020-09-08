@@ -5,55 +5,76 @@
       year="2020"
       role="Art Direction, Design"
       at='Twoo<span class="r">®</span>'
-      description='Website design and development for Museu Nacional de República, located in Brasília and designed by the architect Oscar Niemeyer.<br><br>Project: manufatura.org<br>Creative Direction and Art Direction: Marcos Mendes Manente<br>Brand Strategy: Elisa Mendes<br>Research: Antônio Bonifácio and Paulo Henrique Paranhos<br>Copywriter: Bruna Amora<br>Graphic Design: Leo Porto and Felipe Rocha<br>Design Assistant: Vinicius Caetano<br>Motion: Lais Ikoma and Ronaldo Arthur Vidal<br>Web Design and Development: Carlos Kun and Danilo Campos<br>Content and Social Media: Front Filmes<br><br><a target="_blank" href="http://garage.danilocampos.com.br">See website</a>'
+      description="Rebranding of Lotus, a real estate company with headquarters in Brasilia and Miami, together with a team of talented architects they’ve been transforming one of the Plano Piloto newest neighborhoods Noroeste."
     />
 
-    <Video100 video="lotus/typelogocolor.mp4" />
+    <Video100 video="lotus/video_intro.mp4" />
 
-    <Video50Left
-      video="lotus/refsbrasilia.mp4"
-      description="References<br>Brasília architecture and brazilian modernist graphic design"
-    />
-
-    <Img100 img="lotus/290.jpg" />
+    <Img100 img="lotus/Image_3840x2560_11.jpg" />
 
     <Video50Right video="lotus/grid.mp4" />
 
-    <Img50Left img="lotus/29.jpg" />
+    <Img100 img="lotus/Image_3840x2560_0.jpg" />
 
-    <Img100 img="lotus/291.jpg" />
+    <Video50Left video="lotus/typelogocolor.mp4" />
 
-    <Img50Right img="lotus/292.jpg" />
+    <Img100 img="lotus/Image_3840x2560_23.jpg" />
 
-    <Img100 img="lotus/293.jpg" />
+    <Img50Left img="lotus/Image_3840x2560_7.jpg" />
 
-    <Video50Right video="lotus/232.mp4" />
+    <Img50Right img="lotus/Image_vertical_1804_2560_9.jpg" />
 
-    <Img100 img="lotus/papelaria.jpg" />
+    <Img100 img="lotus/Image_3840x2560_25.jpg" />
 
-    <Img50Left img="lotus/28.jpg" />
+    <Video50Right video="lotus/video_hor_1.mp4" />
 
-    <Img50Right img="lotus/outdoor.jpg" />
+    <Img100 img="lotus/Image_3840x2560_5.jpg" />
 
-    <Img100 img="lotus/mmanual02.jpg" />
+    <Img100 img="lotus/Image_3840x2560_4.jpg" />
 
-    <ImgTwoColumns imgl="lotus/mmanual01.jpg" imgr="lotus/mmanual03.jpg" />
+    <Video50Left video="lotus/video_hor_2.mp4" />
 
-    <Img100 img="lotus/muro.jpg" />
+    <Img100 img="lotus/Image_3840x2560_13.jpg" />
 
-    <Img50Left img="lotus/capacete.jpg" />
+    <Img50Left img="lotus/Image_vertical_1804_2560_3.jpg" />
 
-    <Img50Right img="lotus/ccamiseta.jpg" />
+    <Img50Right img="lotus/Image_3840x2560_20.jpg" />
 
-    <Img100 img="lotus/12.jpg" />
+    <Img100 img="lotus/Image_3840x2560_29.jpg" />
 
-    <Img50Left img="lotus/cartao.jpg" />
+    <Img100 img="lotus/Image_3840x2560_15.jpg" />
 
-    <Img100 img="lotus/lapis.jpg" />
+    <Img50Left img="lotus/Image_vertical_1804_2560_4.jpg" />
 
-    <Video50Right video="lotus/211.mp4" />
+    <Img100 img="lotus/Image_3840x2560_8.jpg" />
 
-    <Video100 video="lotus/website.mp4" />
+    <Img100 img="lotus/Image_3840x2560_24.jpg" />
+
+    <Img50Right img="lotus/Image_3840x2560_28.jpg" />
+
+    <Img50Left img="lotus/Image_3840x2560_9.jpg" />
+
+    <Img100 img="lotus/Image_3840x2560_16.jpg" />
+
+    <Img50Left img="lotus/Image_vertical_1804_2560_2.jpg" />
+
+    <Img100 img="lotus/Image_3840x2560_21.jpg" />
+
+    <Img100 img="lotus/Image_3840x2560_27.jpg" />
+
+    <Img100 img="lotus/Image_3840x2560_22.jpg" />
+
+    <Img50Right img="lotus/Image_vertical_1804_2560_6.jpg" />
+
+    <Img100 img="lotus/Image_3840x2560_18.jpg" />
+
+    <Img100 img="lotus/Image_3840x2560_10.jpg" />
+
+    <Img100 img="lotus/Image_3840x2560_14.jpg" />
+
+    <Img100 img="lotus/Image_3840x2560_17.jpg" />
+
+    <Video50Right video="lotus/video_hor_3.mp4" />
   </section>
 </template>
 
@@ -72,7 +93,6 @@ import Img50Left from '~/components/Img50Left.vue'
 import Video50Right from '~/components/Video50Right.vue'
 import Video50Left from '~/components/Video50Left.vue'
 import Video100 from '~/components/Video100.vue'
-import ImgTwoColumns from '~/components/ImgTwoColumns.vue'
 export default {
   layout: 'interna',
   components: {
@@ -82,7 +102,6 @@ export default {
     Video50Right,
     Video50Left,
     Video100,
-    ImgTwoColumns,
     Img50Left
   },
 

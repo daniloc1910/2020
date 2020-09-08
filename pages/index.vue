@@ -6,34 +6,34 @@
         year="2020"
         role="Website"
         at='Twoo<span class="r">®</span>'
-        description="Website design and development for Museu Nacional de República, located in Brasília and designed by the architect Oscar Niemeyer."
+        description="Website design and development for Geoff Levy, a Brooklyn based photographer and film director."
         link="geoff-levy"
       />
 
       <ProjectListItem
         title="Liv Up"
         year="2020"
-        role="App, Art Direction"
+        role="App, Visual Identity"
         at='Twoo<span class="r">®</span>'
-        description="Website design and development for Museu Nacional de República, located in Brasília and designed by the architect Oscar Niemeyer."
+        description="New Liv Up’s app for their new branding and business. I have collaborated with their talented internal team to shape a concept from navigation to visual direction."
         link="liv-up"
       />
 
-      <ProjectListItem
+      <!--      <ProjectListItem
         title="Escinter"
         year="2020"
         role="Website, Development"
         at='Twoo<span class="r">®</span>'
         description="Website design and development for Museu Nacional de República, located in Brasília and designed by the architect Oscar Niemeyer."
         link="escinter"
-      />
+      />-->
 
       <ProjectListItem
         title="Lotus"
         year="2020"
         role="Visual Identity, Art Direction"
         at='Twoo<span class="r">®</span>'
-        description="Website design and development for Museu Nacional de República, located in Brasília and designed by the architect Oscar Niemeyer."
+        description="Rebranding of Lotus, a real estate company with headquarters in Brasilia and Miami."
         link="lotus"
       />
 
