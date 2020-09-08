@@ -16,9 +16,10 @@
 
     <Video50Right video="geofflevy/videohome.mp4" />
 
-    <Img50Left img="geofflevy/Image_3840x2560_3.jpg" />
-
-    <Img50Right img="geofflevy/Image_3840x2560_2.jpg" />
+    <ImgTwoColumns
+      imgl="geofflevy/Image_3840x2560_3.jpg"
+      imgr="geofflevy/Image_3840x2560_2.jpg"
+    />
 
     <Img100 img="geofflevy/interna-full.jpg" />
 
@@ -47,6 +48,7 @@ import Img50Left from '~/components/Img50Left.vue'
 import Video100 from '~/components/Video100.vue'
 import Video50Right from '~/components/Video50Right.vue'
 import Video50Left from '~/components/Video50Left.vue'
+import ImgTwoColumns from '~/components/ImgTwoColumns.vue'
 
 export default {
   layout: 'interna',
@@ -57,7 +59,8 @@ export default {
     Img50Left,
     Video100,
     Video50Right,
-    Video50Left
+    Video50Left,
+    ImgTwoColumns
   },
 
   data() {

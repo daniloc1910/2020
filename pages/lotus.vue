@@ -20,9 +20,10 @@
 
     <Img100 img="lotus/Image_3840x2560_23.jpg" />
 
-    <Img50Left img="lotus/Image_3840x2560_7.jpg" />
-
-    <Img50Right img="lotus/Image_vertical_1804_2560_9.jpg" />
+    <ImgTwoColumns
+      imgl="lotus/Image_3840x2560_7.jpg"
+      imgr="lotus/Image_vertical_1804_2560_9.jpg"
+    />
 
     <Img100 img="lotus/Image_3840x2560_25.jpg" />
 
@@ -36,9 +37,10 @@
 
     <Img100 img="lotus/Image_3840x2560_13.jpg" />
 
-    <Img50Left img="lotus/Image_vertical_1804_2560_3.jpg" />
-
-    <Img50Right img="lotus/Image_3840x2560_20.jpg" />
+    <ImgTwoColumns
+      imgl="lotus/Image_vertical_1804_2560_3.jpg"
+      imgr="lotus/Image_3840x2560_20.jpg"
+    />
 
     <Img100 img="lotus/Image_3840x2560_29.jpg" />
 
@@ -50,9 +52,10 @@
 
     <Img100 img="lotus/Image_3840x2560_24.jpg" />
 
-    <Img50Right img="lotus/Image_3840x2560_28.jpg" />
-
-    <Img50Left img="lotus/Image_3840x2560_9.jpg" />
+    <ImgTwoColumns
+      imgl="lotus/Image_3840x2560_28.jpg"
+      imgr="lotus/Image_3840x2560_9.jpg"
+    />
 
     <Img100 img="lotus/Image_3840x2560_16.jpg" />
 
@@ -93,6 +96,8 @@ import Img50Left from '~/components/Img50Left.vue'
 import Video50Right from '~/components/Video50Right.vue'
 import Video50Left from '~/components/Video50Left.vue'
 import Video100 from '~/components/Video100.vue'
+import ImgTwoColumns from '~/components/ImgTwoColumns.vue'
+
 export default {
   layout: 'interna',
   components: {
@@ -102,7 +107,8 @@ export default {
     Video50Right,
     Video50Left,
     Video100,
-    Img50Left
+    Img50Left,
+    ImgTwoColumns
   },
 
   data() {

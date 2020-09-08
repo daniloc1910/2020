@@ -1,11 +1,21 @@
 <template>
   <div class="grid-imgs grid-twocolumns">
     <div class="img50left">
-      <img :src="require('~/assets/images/nuxt.jpg').placeholder" :data-src="require('~/assets/images/' + imgl).srcSet" :data-srcset="require('~/assets/images/' + imgl).srcSet" class="lazyload" />
+      <img
+        :src="require('~/assets/images/nuxt.jpg').placeholder"
+        :data-src="require('~/assets/images/' + imgl).srcSet"
+        :data-srcset="require('~/assets/images/' + imgl).srcSet"
+        class="lazyload"
+      />
     </div>
 
     <div class="img50right">
-      <img :src="require('~/assets/images/nuxt.jpg').placeholder" :data-src="require('~/assets/images/' + imgr).srcSet" :data-srcset="require('~/assets/images/' + imgr).srcSet" class="lazyload" />
+      <img
+        :src="require('~/assets/images/nuxt.jpg').placeholder"
+        :data-src="require('~/assets/images/' + imgr).srcSet"
+        :data-srcset="require('~/assets/images/' + imgr).srcSet"
+        class="lazyload"
+      />
     </div>
   </div>
 </template>
@@ -37,7 +47,7 @@ export default {
 }
 
 .grid-twocolumns {
-  align-items: end;
+  align-items: top;
 }
 
 @media screen and (max-width: 745px) {
