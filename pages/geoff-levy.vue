@@ -3,7 +3,7 @@
     <HeaderInterna
       title="Geoff Levy"
       year="2020"
-      role="Website"
+      role="Website Design, Art Direction"
       at='Twoo<span class="r">®</span>'
       description='Website design and development for Geoff Levy. Based in Brooklyn, Geoff has made films in Spanish, Portuguese, and French. His work aims to bridge art with commerce while elevating platforms of causes and cultures.<br><br>Development: <a target="_blank" href="https://www.juliocesar.work">Julio Cesar</a> and <a target="_blank" href="https://jorgetoloza.co">Jorge Toloza</a><br><br><a target="_blank" href="https://geofflevy.com">See website</a>'
     />

@@ -3,7 +3,7 @@
     <HeaderInterna
       title="Liv Up"
       year="2020"
-      role="App"
+      role="App Design, Visual Identity"
       at="Freelance"
       description="New Liv Up’s app for their new branding and business. I have collaborated with their talented internal team to shape a concept from navigation to visual direction."
     />

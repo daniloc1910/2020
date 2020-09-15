@@ -3,7 +3,7 @@
     <HeaderInterna
       title="Meu Timão"
       year="2019"
-      role="Art direction, design"
+      role="Website Design"
       at="Concept"
       description="Concept design and art direction for Meu Timão, the biggest news website about Sport Club Corinthians Paulista."
     />
@@ -49,7 +49,7 @@ export default {
 
   data() {
     return {
-      title: 'Vem do Bem'
+      title: 'Meu Timão'
     }
   },
   head() {

@@ -3,7 +3,7 @@
     <HeaderInterna
       title="The Burger Map"
       year="2018"
-      role="Art direction, design"
+      role="Website Design, Art Direction"
       at="Concept"
       description="Concept design and art direction for The Burger Map, an american-inspired burger joint in Brazil."
     />

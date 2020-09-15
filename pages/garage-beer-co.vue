@@ -3,7 +3,7 @@
     <HeaderInterna
       title="Garage Beer Co."
       year="2019"
-      role="Website, Development"
+      role="Website Design, Development"
       at="Freelance"
       description="Design, development and 3D manipulation for Garage Beer Co. website, a craft brewery and tap room located in the centre of Barcelona."
     />

@@ -3,7 +3,7 @@
     <HeaderInterna
       title="Designers Brasileiros Pela Democracia"
       year="2018"
-      role="Design, development"
+      role="Website Design, Development"
       at="Personal"
       description='Few days before the final voting for the presidential election in Brazil, we decided to react and create a last-minute movement in defense of democracy and diversity, in opposition to the authoritarian and discriminatory speech by Jair Bolsonaro (currently, the elected president for 2019).<br><br>Designed and coded with <a target="_blank" href="https://www.diogoakio.com.br">Diogo Akio</a><br>Manifesto by <a target="_blank" href="https://www.rafaelbessa.com">Rafael Bessa</a>'
     />

@@ -3,7 +3,7 @@
     <HeaderInterna
       title="GRANDE"
       year="2018"
-      role="Art Direction, design"
+      role="Visual Identity, Art Direction"
       at="Freelance"
       description="GRANDE is a creative studio based in São Paulo. They mix art, design and technology to deliver unique creative solutions for their clients."
     />

@@ -3,7 +3,7 @@
     <HeaderInterna
       title="Vem do Bem"
       year="2019"
-      role="Design, development"
+      role="Visual Identity, Art Direction"
       at='Twoo<span class="r">®</span>'
       description='Vem do Bem is a brazilian cosmetic brand. All their products are handmade, vegan and 100% organic.<br><br>Illustrations by <a target="_blank" href="https://www.isabelaquintes.com">Isabela Quintes</a>'
     />

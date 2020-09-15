@@ -3,9 +3,9 @@
     <HeaderInterna
       title="Lotus"
       year="2020"
-      role="Art Direction, Design"
+      role="Visual Identity, Art Direction"
       at='Twoo<span class="r">®</span>'
-      description="Rebranding of Lotus, a real estate company with headquarters in Brasilia and Miami, together with a team of talented architects they’ve been transforming one of the Plano Piloto newest neighborhoods Noroeste."
+      description="Rebranding of Lotus, a real estate company with headquarters in Brasilia and Miami, together with a team of talented architects they’ve been transforming one of the Plano Piloto newest neighborhoods Noroeste.<br><br>Brand Culture: manufatura<br>Creative Direction: Marcos Mendes Manente<br>Brand Strategy: Elisa Mendes<br>Content Direction: Front Filmes<br>Graphic Design Direction: Carlos Kun and Danilo Campos<br>Contributors: Duda Millington, Vinicius Caetano, Saulo dal Pozzo, Lerry Dias, Ketlyn Ramos, Marianne Diniz"
     />
 
     <Video100 video="lotus/video_intro.mp4" />
@@ -31,11 +31,13 @@
 
     <Img100 img="lotus/Image_3840x2560_5.jpg" />
 
+    <Video50Right video="lotus/mmlhd.mp4" />
+
     <Img100 img="lotus/Image_3840x2560_4.jpg" />
 
     <Video50Left video="lotus/video_hor_2.mp4" />
 
-    <Img100 img="lotus/Image_3840x2560_13.jpg" />
+    <Img100 img="lotus/Image_3840x2560_2.jpg" />
 
     <ImgTwoColumns
       imgl="lotus/Image_vertical_1804_2560_3.jpg"

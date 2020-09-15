@@ -3,7 +3,7 @@
     <HeaderInterna
       title="Re—mind"
       year="2017"
-      role="Concept, art direction, design, development"
+      role="Visual Identity, Website Design, Development"
       at="Personal"
       description='After the death of Del.icio.us, I decided to create Re—mind as an archive of all my inspirations and references links.<br><br><a target="_blank" href="https://remind.danilocampos.com.br">See website</a>'
     />
