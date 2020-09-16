@@ -8,20 +8,19 @@
       description="New Liv Up’s app for their new branding and business. I have collaborated with their talented internal team to shape a concept from navigation to visual direction."
     />
 
-    <Video100 video="livup/framework.mp4" />
+    <Video100 video="livup/kitchen_r.mp4" />
 
-    <Video50Left
-      video="livup/brand.mp4"
-      description="Brand assets<br>New logo, colors and typeface"
-    />
+    <Img50Left img="livup/interface.jpg" />
 
     <Img100 img="livup/telas.jpg" />
 
-    <Video50Right video="livup/checkout.mp4" />
+    <Video50Right video="livup/brand.mp4" />
 
     <Img100 img="livup/telas2.jpg" />
 
     <Img100 img="livup/components.jpg" />
+
+    <Video50Left video="livup/checkout.mp4" />
 
     <Img100 img="livup/telas3.jpg" />
   </section>
@@ -40,6 +39,8 @@ import Img100 from '~/components/Img100.vue'
 import Video50Right from '~/components/Video50Right.vue'
 import Video50Left from '~/components/Video50Left.vue'
 import Video100 from '~/components/Video100.vue'
+import Img50Left from '~/components/Img50Left.vue'
+
 export default {
   layout: 'interna',
   components: {
@@ -47,7 +48,8 @@ export default {
     Img100,
     Video50Right,
     Video50Left,
-    Video100
+    Video100,
+    Img50Left
   },
 
   data() {

@@ -47,15 +47,6 @@
           link="geoff-levy"
         />
 
-        <ProjectListItem
-          title="Liv Up"
-          year="2020"
-          role="App Design, Visual Identity"
-          at='Twoo<span class="r">®</span>'
-          description="New Liv Up’s app for their new branding and business. I have collaborated with their talented internal team to shape a concept from navigation to visual direction."
-          link="liv-up"
-        />
-
         <!--      <ProjectListItem
         title="Escinter"
         year="2020"
@@ -81,6 +72,15 @@
           at='Twoo<span class="r">®</span>'
           description="Website design and development for Museu Nacional de República, located in Brasília and designed by the architect Oscar Niemeyer."
           link="museu-nacional-da-republica"
+        />
+
+        <ProjectListItem
+          title="Liv Up"
+          year="2020"
+          role="App Design, Visual Identity"
+          at="Freelance"
+          description="New Liv Up’s app for their new branding and business. I have collaborated with their talented internal team to shape a concept from navigation to visual direction."
+          link="liv-up"
         />
 
         <ProjectListItem
