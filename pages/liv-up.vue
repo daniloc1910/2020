@@ -21,6 +21,8 @@
 
     <Img100 img="livup/telas2.jpg" />
 
+    <Img100 img="livup/components.jpg" />
+
     <Img100 img="livup/telas3.jpg" />
   </section>
 </template>
