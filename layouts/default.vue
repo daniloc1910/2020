@@ -4,7 +4,7 @@
       <div class="profile">
         <p>
           Danilo Campos is a brazilian designer based in Barcelona focused on
-          digital design and development. With more than 11 years of experience,
+          digital design and development. With more than 12 years of experience,
           so far he has lived and worked in São Paulo, Madrid and Barcelona. His
           design approach often merges graphic design aesthetic, smart
           interactions and smooth development.
@@ -13,10 +13,8 @@
           He is also one of
           <a href="https://wearetwoo.com" target="_blank">Twoo</a
           ><span class="r">®</span>, an independent design studio he runs with
-          Carlos Kun. <a href="https://wearetwoo.com" target="_blank">Twoo</a
-          ><span class="r">®</span>
-          focused on branding and digital, they work on a variety of projects
-          ranging from brand identity systems, to product design and
+          Carlos Kun. Focused on branding and digital, they work on a variety of
+          projects ranging from brand identity systems, to product design and
           development.
         </p>
 
