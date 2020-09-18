@@ -2,7 +2,7 @@
   <div class="listado">
     <section class="projects-list">
       <ProjectListItem
-        title="Geoff levy"
+        title="Geoff Levy"
         year="2020"
         role="Website Design, Art Direction"
         at='Twoo<span class="r">®</span>'
