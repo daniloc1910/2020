@@ -68,7 +68,11 @@ export default {
     id: 'UA-85228864-1'
   },
 
-  modules: ['@nuxtjs/moment', 'nuxt-responsive-loader'],
+  modules: ['@nuxtjs/moment', 'nuxt-responsive-loader', '@nuxtjs/cloudinary'],
+
+  cloudinary: {
+    cloudName: 'dzeoohwas'
+  },
 
   axios: {},
 
