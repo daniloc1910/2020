@@ -1,28 +1,31 @@
 import webpack from 'webpack'
 
+const title = 'Danilo Campos'
+const url = 'https://danilocampos.com.br'
+const description =
+  'Danilo Campos is a brazilian designer based in Barcelona focused on digital design and development.'
+const cover =
+  'https://res.cloudinary.com/dmjl08xas/image/upload/v1600512540/share_myjcye.jpg'
+
 export default {
   mode: 'spa',
-  /*
-   ** Headers of the page
-   */
+
   head: {
-    title: 'Danilo Campos',
+    title,
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      {
-        hid: 'description',
-        name: 'description',
-        content: 'Designer'
-      },
-      { property: 'og:url', content: 'https://danilocampos.com.br' },
-      {
-        property: 'og:image',
-        content: 'https://danilocampos.com.br/share.jpg'
-      },
-      { property: 'og:image:type', content: 'image/jpeg' },
-      { property: 'og:image:width', content: '1200' },
-      { property: 'og:image:height', content: '630' }
+      { hid: 'description', name: 'description', content: description },
+      { property: 'og:locale', content: 'en_US' },
+      { property: 'og:type', content: 'website' },
+      { property: 'og:title', content: title },
+      { property: 'og:description', content: description },
+      { property: 'og:url', content: url },
+      { property: 'og:image', content: cover },
+      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:title', content: title },
+      { name: 'twitter:description', content: description },
+      { name: 'twitter:image', content: cover }
     ],
     script: [
       {
@@ -33,10 +36,11 @@ export default {
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
-  /*
-   ** Customize the progress-bar color
-   */
-  loading: false,
+
+  loading: {
+    color: 'black',
+    height: '4px'
+  },
 
   responsiveLoader: {
     name: 'img/[name]-[hash:7]-[width].[ext]',
@@ -50,37 +54,24 @@ export default {
     adapter: require('responsive-loader/sharp'),
     disable: false
   },
-  /*
-   ** Global CSS
-   */
+
   css: ['~/css/main.css'],
-  /*
-   ** Plugins to load before mounting the App
-   */
+
   plugins: [
     { src: '~/plugins/moment-timezone-inject.js', ssr: false },
     { src: '~/plugins/vue-lazyload', ssr: false },
     '~/plugins/lazysizes.client.js'
   ],
-  /*
-   ** Nuxt.js dev-modules
-   */
+
   buildModules: ['@nuxtjs/moment', '@nuxtjs/google-analytics'],
   googleAnalytics: {
     id: 'UA-85228864-1'
   },
-  /*
-   ** Nuxt.js modules
-   */
+
   modules: ['@nuxtjs/moment', 'nuxt-responsive-loader'],
-  /*
-   ** Axios module configuration
-   ** See https://axios.nuxtjs.org/options
-   */
+
   axios: {},
-  /*
-   ** Build configuration
-   */
+
   build: {
     extend(
       config,

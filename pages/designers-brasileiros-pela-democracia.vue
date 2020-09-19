@@ -8,7 +8,7 @@
       description='Few days before the final voting for the presidential election in Brazil, we decided to react and create a last-minute movement in defense of democracy and diversity, in opposition to the authoritarian and discriminatory speech by Jair Bolsonaro (currently, the elected president for 2019).<br><br>Designed and coded with <a target="_blank" href="https://www.diogoakio.com.br">Diogo Akio</a><br>Manifesto by <a target="_blank" href="https://www.rafaelbessa.com">Rafael Bessa</a>'
     />
 
-    <Video50Left video="manifesto/gif@2.mp4" />
+    <Video50Left video="manifesto/gif@2.mp4" poster="manifesto/gif@2-p.jpg" />
 
     <Img100 img="manifesto/website@2.jpg" />
   </section>

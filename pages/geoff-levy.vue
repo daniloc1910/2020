@@ -8,13 +8,19 @@
       description='Website design and development for Geoff Levy. Based in Brooklyn, Geoff has made films in Spanish, Portuguese, and French. His work aims to bridge art with commerce while elevating platforms of causes and cultures.<br><br>Development: <a target="_blank" href="https://www.juliocesar.work">Julio Cesar</a> and <a target="_blank" href="https://jorgetoloza.co">Jorge Toloza</a><br><br><a target="_blank" href="https://geofflevy.com">See website</a>'
     />
 
-    <Video100 video="geofflevy/video_intro_2.mp4" />
+    <Video100
+      video="geofflevy/video_intro_2.mp4"
+      poster="geofflevy/video_intro_2.jpg"
+    />
 
     <Img100 img="geofflevy/home.jpg" />
 
     <Img50Left img="geofflevy/homem.jpg" />
 
-    <Video50Right video="geofflevy/videohome.mp4" />
+    <Video50Right
+      video="geofflevy/videohome.mp4"
+      poster="geofflevy/videohome.jpg"
+    />
 
     <ImgTwoColumns
       imgl="geofflevy/Image_3840x2560_3.jpg"
@@ -29,7 +35,10 @@
 
     <Img100 img="geofflevy/info.jpg" />
 
-    <Video50Left video="geofflevy/videoprojeto.mp4" />
+    <Video50Left
+      video="geofflevy/videoprojeto.mp4"
+      poster="geofflevy/videoprojeto.jpg"
+    />
   </section>
 </template>
 

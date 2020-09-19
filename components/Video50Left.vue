@@ -7,6 +7,7 @@
       autoplay
       muted
       :src="require('~/assets/images/' + video)"
+      :poster="require('~/assets/images/' + poster)"
       type="video/mp4"
     ></video>
     <p class="description"><span v-html="description"></span></p>
@@ -17,6 +18,10 @@
 export default {
   props: {
     video: {
+      type: String,
+      required: true
+    },
+    poster: {
       type: String,
       required: true
     },

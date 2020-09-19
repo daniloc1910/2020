@@ -10,11 +10,14 @@
 
     <Img50Left img="vemdobem/capa@2.jpg" />
 
-    <Video100 video="vemdobem/ppattern@2.mp4" />
+    <Video100
+      video="vemdobem/ppattern@2.mp4"
+      poster="vemdobem/ppattern@2.jpg"
+    />
 
     <Img50Right img="vemdobem/produto@2.jpg" />
 
-    <Video100 video="vemdobem/pack@2.mp4" />
+    <Video100 video="vemdobem/pack@2.mp4" poster="vemdobem/ppattern@2.jpg" />
 
     <Img50Left img="vemdobem/piscina@2.jpg" />
 
@@ -31,7 +34,10 @@
 
     <Img100 img="vemdobem/web-home@2.jpg" />
 
-    <Video50Left video="vemdobem/home-video.mp4" />
+    <Video50Left
+      video="vemdobem/home-video.mp4"
+      poster="vemdobem/ppattern@2.jpg"
+    />
 
     <Img100 img="vemdobem/web-interna@2.jpg" />
 

@@ -8,11 +8,17 @@
       description="Design, development and 3D manipulation for Garage Beer Co. website, a craft brewery and tap room located in the centre of Barcelona."
     />
 
-    <Video50Left video="garagebeerco/lata.mp4" />
+    <Video50Left
+      video="garagebeerco/lata.mp4"
+      poster="garagebeerco/lata-p.jpg"
+    />
 
     <Img100 img="garagebeerco/web-desktop@2.jpg" />
 
-    <Video50Left video="garagebeerco/web-video.mp4" />
+    <Video50Left
+      video="garagebeerco/web-video.mp4"
+      poster="garagebeerco/web-video-p.jpg"
+    />
 
     <Img50Right img="garagebeerco/mobile@2.jpg" />
   </section>

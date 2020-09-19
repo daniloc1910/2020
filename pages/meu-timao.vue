@@ -8,7 +8,10 @@
       description="Concept design and art direction for Meu Timão, the biggest news website about Sport Club Corinthians Paulista."
     />
 
-    <Video50Left video="meutimao/home-video.mp4" />
+    <Video50Left
+      video="meutimao/home-video.mp4"
+      poster="meutimao/home-video.jpg"
+    />
 
     <Img100 img="meutimao/home@2.jpg" />
 

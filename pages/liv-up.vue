@@ -8,19 +8,19 @@
       description="New Liv Up’s app for their new branding and business. I have collaborated with their talented internal team to shape a concept from navigation to visual direction."
     />
 
-    <Video100 video="livup/kitchen_r.mp4" />
+    <Video100 video="livup/kitchen_r.mp4" poster="livup/kitchen-poster.jpg" />
 
     <Img50Left img="livup/interface.jpg" />
 
     <Img100 img="livup/telas.jpg" />
 
-    <Video50Right video="livup/brand.mp4" />
+    <Video50Right video="livup/brand.mp4" poster="livup/brand-p.jpg" />
 
     <Img100 img="livup/telas2.jpg" />
 
     <Img100 img="livup/components.jpg" />
 
-    <Video50Left video="livup/checkout.mp4" />
+    <Video50Left video="livup/checkout.mp4" poster="livup/checkout-p.jpg" />
 
     <Img100 img="livup/telas3.jpg" />
   </section>

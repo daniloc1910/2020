@@ -10,7 +10,10 @@
 
     <Img100 img="grande/adesivos@2.jpg" />
 
-    <Video50Left video="grande/gif_intro@2.mp4" />
+    <Video50Left
+      video="grande/gif_intro@2.mp4"
+      poster="grande/gif_intro@2.jpg"
+    />
 
     <Img100 img="grande/cartoes@2.jpg" />
 
@@ -18,15 +21,24 @@
 
     <Img100 img="grande/pack@2.jpg" />
 
-    <Video50Left video="grande/gif_logo_vermelho@2.mp4" />
+    <Video50Left
+      video="grande/gif_logo_vermelho@2.mp4"
+      poster="grande/gif_logo_vermelho@2.jpg"
+    />
 
-    <Video100 video="grande/pack-color@2.mp4" />
+    <Video100
+      video="grande/pack-color@2.mp4"
+      poster="grande/pack-color@2.jpg"
+    />
 
-    <Video50Right video="grande/presentation.mp4" />
+    <Video50Right
+      video="grande/presentation.mp4"
+      poster="grande/presentation.jpg"
+    />
 
     <Img100 img="grande/home@2.jpg" />
 
-    <Video50Left video="grande/web.mp4" />
+    <Video50Left video="grande/web.mp4" poster="grande/web.jpg" />
 
     <Img100 img="grande/interna@2.jpg" />
 

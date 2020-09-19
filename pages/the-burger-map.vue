@@ -14,7 +14,10 @@
 
     <Img100 img="theburgermap/cardapio-regional-burgers@2.jpg" />
 
-    <Video50Left video="theburgermap/prototipo.mp4" />
+    <Video50Left
+      video="theburgermap/prototipo.mp4"
+      poster="theburgermap/prototipo.jpg"
+    />
 
     <Img100 img="theburgermap/modal-burger@2.jpg" />
 
