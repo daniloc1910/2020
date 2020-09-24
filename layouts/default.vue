@@ -79,7 +79,8 @@
             >)
           </li>
           <li><br /></li>
-          <li>—Publications</li>
+          <li>—Recognitions</li>
+          <li>Awwwards Mobile of the Week</li>
           <li>Behance Curated Galleries</li>
           <li>bauhaus100anos</li>
           <li>klikkenthéke</li>

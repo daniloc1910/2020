@@ -50,7 +50,7 @@ export default {
     max: 3360,
     steps: 3,
     format: 'jpg',
-    quality: 85,
+    quality: 70,
     adapter: require('responsive-loader/sharp'),
     disable: false
   },
@@ -60,7 +60,7 @@ export default {
   plugins: [
     { src: '~/plugins/moment-timezone-inject.js', ssr: false },
     { src: '~/plugins/vue-lazyload', ssr: false },
-    '~/plugins/lazysizes.client.js'
+    { src: '~/plugins/lazysizes.client.js', ssr: false }
   ],
 
   buildModules: ['@nuxtjs/moment', '@nuxtjs/google-analytics'],

@@ -61,7 +61,7 @@
           year="2020"
           role="Visual Identity, Art Direction"
           at='Twoo<span class="r">®</span>'
-          description="Rebranding of Lotus, a real estate company with headquarters in Brasilia and Miami."
+          description="Rebranding of Lotus, a real estate company with headquarters in Brasília and Miami."
           link="lotus"
         />
 
