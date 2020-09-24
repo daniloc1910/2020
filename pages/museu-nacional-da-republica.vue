@@ -9,7 +9,7 @@
     />
 
     <Video50Left
-      video="museunacional/web-video.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600978376/web-video_hoale9.mp4"
       poster="museunacional/web-video.jpg"
     />
 

@@ -9,7 +9,7 @@
     />
 
     <Video100
-      video="geofflevy/video_intro_2.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600977811/video_intro_2_wftefv.mp4"
       poster="geofflevy/video_intro_2.jpg"
     />
 
@@ -18,7 +18,7 @@
     <Img50Left img="geofflevy/homem.jpg" />
 
     <Video50Right
-      video="geofflevy/videohome.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600977812/videohome_nudziy.mp4"
       poster="geofflevy/videohome.jpg"
     />
 
@@ -36,7 +36,7 @@
     <Img100 img="geofflevy/info.jpg" />
 
     <Video50Left
-      video="geofflevy/videoprojeto.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600977908/videoprojeto_tdwmhc.mp4"
       poster="geofflevy/videoprojeto.jpg"
     />
   </section>

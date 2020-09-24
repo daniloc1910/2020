@@ -11,13 +11,16 @@
     <Img50Left img="vemdobem/capa@2.jpg" />
 
     <Video100
-      video="vemdobem/ppattern@2.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600985439/ppattern_2_gvmfwe.mp4"
       poster="vemdobem/ppattern@2.jpg"
     />
 
     <Img50Right img="vemdobem/produto@2.jpg" />
 
-    <Video100 video="vemdobem/pack@2.mp4" poster="vemdobem/ppattern@2.jpg" />
+    <Video100
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600985438/pack_2_pef5p2.mp4"
+      poster="vemdobem/ppattern@2.jpg"
+    />
 
     <Img50Left img="vemdobem/piscina@2.jpg" />
 
@@ -35,7 +38,7 @@
     <Img100 img="vemdobem/web-home@2.jpg" />
 
     <Video50Left
-      video="vemdobem/home-video.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600985439/home-video_wz5pxx.mp4"
       poster="vemdobem/ppattern@2.jpg"
     />
 

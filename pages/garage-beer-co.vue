@@ -9,14 +9,14 @@
     />
 
     <Video50Left
-      video="garagebeerco/lata.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600977769/lata_fjjrnw.mp4"
       poster="garagebeerco/lata-p.jpg"
     />
 
     <Img100 img="garagebeerco/web-desktop@2.jpg" />
 
     <Video50Left
-      video="garagebeerco/web-video.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600977770/web-video_raj3bf.mp4"
       poster="garagebeerco/web-video-p.jpg"
     />
 

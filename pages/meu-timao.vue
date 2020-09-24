@@ -9,7 +9,7 @@
     />
 
     <Video50Left
-      video="meutimao/home-video.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600978203/home-video_zmchfm.mp4"
       poster="meutimao/home-video.jpg"
     />
 

@@ -11,7 +11,7 @@
     <Img100 img="grande/adesivos@2.jpg" />
 
     <Video50Left
-      video="grande/gif_intro@2.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600977935/gif_intro_2_flgba6.mp4"
       poster="grande/gif_intro@2.jpg"
     />
 
@@ -22,23 +22,26 @@
     <Img100 img="grande/pack@2.jpg" />
 
     <Video50Left
-      video="grande/gif_logo_vermelho@2.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600977935/gif_logo_vermelho_2_rz0nam.mp4"
       poster="grande/gif_logo_vermelho@2.jpg"
     />
 
     <Video100
-      video="grande/pack-color@2.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600977936/pack-color_2_udz2qq.mp4"
       poster="grande/pack-color@2.jpg"
     />
 
     <Video50Right
-      video="grande/presentation.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600977937/presentation_rimhnv.mp4"
       poster="grande/presentation.jpg"
     />
 
     <Img100 img="grande/home@2.jpg" />
 
-    <Video50Left video="grande/web.mp4" poster="grande/web.jpg" />
+    <Video50Left
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600977937/web_padnmy.mp4"
+      poster="grande/web.jpg"
+    />
 
     <Img100 img="grande/interna@2.jpg" />
 

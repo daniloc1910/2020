@@ -8,16 +8,22 @@
       description="Rebranding of Lotus, a real estate company with headquarters in Brasília and Miami, together with a team of talented architects they’ve been transforming one of the Plano Piloto newest neighborhoods Noroeste.<br><br>Brand Culture: manufatura<br>Creative Direction: Marcos Mendes Manente<br>Brand Strategy: Elisa Mendes<br>Content Direction: Front Filmes<br>Graphic Design Direction: Carlos Kun and Danilo Campos<br>Contributors: Duda Millington, Vinicius Caetano, Saulo dal Pozzo, Lerry Dias, Ketlyn Ramos, Marianne Diniz"
     />
 
-    <Video100 video="lotus/video_intro.mp4" poster="lotus/video_intro.jpg" />
+    <Video100
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600978074/video_intro_caigl9.mp4"
+      poster="lotus/video_intro.jpg"
+    />
 
     <Img100 img="lotus/Image_3840x2560_11.jpg" />
 
-    <Video50Right video="lotus/grid.mp4" poster="lotus/grid.jpg" />
+    <Video50Right
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600978070/grid_bzavju.mp4"
+      poster="lotus/grid.jpg"
+    />
 
     <Img100 img="lotus/Image_3840x2560_0.jpg" />
 
     <Video50Left
-      video="lotus/typelogocolor.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600978070/typelogocolor_tjbv2h.mp4"
       poster="lotus/typelogocolor.jpg"
     />
 
@@ -31,17 +37,23 @@
     <Img100 img="lotus/Image_3840x2560_25.jpg" />
 
     <Video50Right
-      video="lotus/video_hor_1.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600978070/video_hor_1_ahhbsa.mp4"
       poster="lotus/video_hor_1.jpg"
     />
 
     <Img100 img="lotus/Image_3840x2560_5.jpg" />
 
-    <Video50Right video="lotus/mmlhd.mp4" poster="lotus/mmlhd.jpg" />
+    <Video50Right
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600978069/mmlhd_oia26w.mp4"
+      poster="lotus/mmlhd.jpg"
+    />
 
     <Img100 img="lotus/Image_3840x2560_4.jpg" />
 
-    <Video50Left video="lotus/video_hor_2.mp4" poster="lotus/video_hor_2.jpg" />
+    <Video50Left
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600978069/video_hor_2_kcivk5.mp4"
+      poster="lotus/video_hor_2.jpg"
+    />
 
     <Img100 img="lotus/Image_3840x2560_2.jpg" />
 
@@ -86,7 +98,7 @@
     <Img100 img="lotus/Image_3840x2560_17.jpg" />
 
     <Video50Right
-      video="lotus/video_hor_3.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600978070/video_hor_3_sxcypg.mp4 "
       poster="lotus/video_hor_3.jpg"
     />
   </section>

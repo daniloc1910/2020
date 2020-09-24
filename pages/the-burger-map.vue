@@ -15,7 +15,7 @@
     <Img100 img="theburgermap/cardapio-regional-burgers@2.jpg" />
 
     <Video50Left
-      video="theburgermap/prototipo.mp4"
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600985405/prototipo_ffmm1y.mp4"
       poster="theburgermap/prototipo.jpg"
     />
 

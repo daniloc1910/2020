@@ -6,7 +6,7 @@
       playsinline
       autoplay
       muted
-      :src="require('~/assets/images/' + video)"
+      :src="video"
       :poster="require('~/assets/images/' + poster)"
       type="video/mp4"
     ></video>

@@ -8,11 +8,17 @@
       description='After the death of Del.icio.us, I decided to create Re—mind as an archive of all my inspirations and references links.<br><br><a target="_blank" href="https://remind.danilocampos.com.br">See website</a>'
     />
 
-    <Video50Right video="remind/video.mp4" poster="remind/video.jpg" />
+    <Video50Right
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600985364/video_mbbdc1.mp4"
+      poster="remind/video.jpg"
+    />
 
     <Img100 img="remind/home@2.jpg" />
 
-    <Video50Left video="remind/web-video.mp4" poster="remind/web-video.jpg" />
+    <Video50Left
+      video="https://res.cloudinary.com/dzeoohwas/video/upload/v1600985364/web-video_vookbk.mp4"
+      poster="remind/web-video.jpg"
+    />
   </section>
 </template>
 
