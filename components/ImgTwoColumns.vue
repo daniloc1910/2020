@@ -3,8 +3,7 @@
     <div class="img50left">
       <img
         :src="require('~/assets/images/nuxt.jpg').placeholder"
-        :data-src="require('~/assets/images/' + imgl).srcSet"
-        :data-srcset="require('~/assets/images/' + imgl).srcSet"
+        :srcset="require('~/assets/images/' + imgl).srcSet"
         class="lazyload"
       />
     </div>
@@ -12,8 +11,7 @@
     <div class="img50right">
       <img
         :src="require('~/assets/images/nuxt.jpg').placeholder"
-        :data-src="require('~/assets/images/' + imgr).srcSet"
-        :data-srcset="require('~/assets/images/' + imgr).srcSet"
+        :srcset="require('~/assets/images/' + imgr).srcSet"
         class="lazyload"
       />
     </div>

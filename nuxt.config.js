@@ -50,7 +50,7 @@ export default {
     max: 3360,
     steps: 3,
     format: 'jpg',
-    quality: 60,
+    quality: 65,
     adapter: require('responsive-loader/sharp'),
     disable: false
   },
@@ -69,10 +69,6 @@ export default {
   },
 
   modules: ['@nuxtjs/moment', 'nuxt-responsive-loader', '@nuxtjs/cloudinary'],
-
-  cloudinary: {
-    cloudName: 'dzeoohwas'
-  },
 
   axios: {},
 

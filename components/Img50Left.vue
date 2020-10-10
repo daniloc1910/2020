@@ -3,8 +3,7 @@
     <div class="img50left">
       <img
         :src="require('~/assets/images/nuxt.jpg').placeholder"
-        :data-src="require('~/assets/images/' + img).srcSet"
-        :data-srcset="require('~/assets/images/' + img).srcSet"
+        :srcset="require('~/assets/images/' + img).srcSet"
         class="lazyload"
       />
     </div>
