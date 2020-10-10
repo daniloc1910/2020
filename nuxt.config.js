@@ -50,7 +50,8 @@ export default {
     max: 3360,
     steps: 3,
     format: 'jpg',
-    quality: 80,
+    quality: 60,
+    adapter: require('responsive-loader/sharp'),
     disable: false
   },
 
