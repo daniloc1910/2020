@@ -22,7 +22,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/pwa": "^3.0.0-0",
-    "lazysizes": "^5.2.0",
+    "lazysizes": "^5.2.1",
     "moment-timezone": "^0.5.26",
     "nuxt": "^2.12.2",
     "nuxt-responsive-loader": "^1.0.6",
