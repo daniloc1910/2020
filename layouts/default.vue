@@ -80,6 +80,7 @@
           </li>
           <li><br /></li>
           <li>—Recognitions</li>
+          <li>Brazilians Who Design</li>
           <li>Awwwards Mobile of the Week</li>
           <li>Behance Curated Galleries</li>
           <li>bauhaus100anos</li>
