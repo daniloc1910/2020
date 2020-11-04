@@ -80,6 +80,7 @@
           </li>
           <li><br /></li>
           <li>—Recognitions</li>
+          <li>Fonts In Use</li>
           <li>Brazilians Who Design</li>
           <li>Awwwards Mobile of the Week</li>
           <li>Behance Curated Galleries</li>
@@ -90,7 +91,6 @@
           <li>Httpster</li>
           <li>Nice Portfolio</li>
           <li>The Gallery</li>
-          <li>Webdesigner Depot</li>
         </ul>
       </div>
 
