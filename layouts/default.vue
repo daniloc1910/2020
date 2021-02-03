@@ -61,7 +61,7 @@
           <li>—Interviews</li>
           <li>
             <a
-              href="https://www.creativedoc.co/interviews/danilo-campos"
+              href="https://www.creativedoc.co/entrevistas/danilo-campos"
               target="_blank"
               >Creative Doc</a
             >
