@@ -5,7 +5,7 @@
       year="2019"
       role="Website Design, Development"
       at="Freelance"
-      description="Design, development and 3D manipulation for Garage Beer Co. website, a craft brewery and tap room located in the centre of Barcelona."
+      description="Design, development and 3D manipulation for Garage Beer Co. website, a craft brewery and tap room located in the centre of Barcelona.<br><br>Creative Direction: ACREB Studio"
     />
 
     <Video50Left

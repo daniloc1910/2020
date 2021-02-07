@@ -8,7 +8,7 @@ const cover =
   'https://res.cloudinary.com/dmjl08xas/image/upload/v1600512540/share_myjcye.jpg'
 
 export default {
-  mode: 'spa',
+  mode: 'universal',
 
   head: {
     title,
